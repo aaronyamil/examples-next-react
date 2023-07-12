@@ -32,6 +32,11 @@ export default function Home() {
             <h3>Forms Componentes Controlados &rarr;</h3>
             <p>Formulario con hooks</p>
           </Link>
+
+          <Link href="/posts/fifth-post" className={styles.card}>
+            <h3>Forms Componentes No Controlados &rarr;</h3>
+            <p>Formulario con useRef</p>
+          </Link>
         </div>
       </main>
 
