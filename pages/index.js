@@ -29,8 +29,8 @@ export default function Home() {
           </Link>
 
           <Link href="/posts/fourth-post" className={styles.card}>
-            <h3>Post 4 &rarr;</h3>
-            <p>Related to the post4</p>
+            <h3>Forms Componentes Controlados &rarr;</h3>
+            <p>Formulario con hooks</p>
           </Link>
         </div>
       </main>
