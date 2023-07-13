@@ -42,6 +42,11 @@ export default function Home() {
             <h3>React Hook Form &rarr;</h3>
             <p>Formulario con React Hook Form</p>
           </Link>
+
+          <Link href="/posts/seventh-post" className={styles.card}>
+            <h3>Formik &rarr;</h3>
+            <p>Formulario con Formik</p>
+          </Link>
         </div>
       </main>
 
